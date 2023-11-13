@@ -26,5 +26,10 @@ To get started with this application:
 ## Contribution Guidelines
 Contributions are welcome. Please read the contribution guidelines before submitting any pull requests.
 
+## Resources
+ChatGPT
+Stack Overflow
+For informational purposes github user repo isayani
+
 ## License
 This project is licensed under MIT. Please see the LICENSE file for more details.
